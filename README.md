@@ -22,3 +22,8 @@ Map Integration: Google Maps for pinning activity locations and directions.
 <img width="800" height="857" alt="Screenshot 2026-02-15 095233" src="https://github.com/user-attachments/assets/ae1113e1-6a2b-4a29-85b8-5ea95bbd62d3" />
 <img width="800" height="884" alt="Screenshot 2026-02-15 133002" src="https://github.com/user-attachments/assets/7e7e86f1-9ad7-40d8-a075-d8c609fcca9f" />
 <img width="800" height="869" alt="Screenshot 2026-02-18 170710" src="https://github.com/user-attachments/assets/cb83e278-601d-4a68-b075-e87a5db62335" />
+
+## 🎥 Project Demo
+
+[![Watch on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7430156664508481537/)
+
