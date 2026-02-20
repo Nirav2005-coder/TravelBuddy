@@ -21,7 +21,6 @@ Map Integration: Google Maps for pinning activity locations and directions.
 <img width="800" height="893" alt="Screenshot 2026-02-15 093621" src="https://github.com/user-attachments/assets/bb5769c7-e657-4585-b679-fbb84b8aa83d" />
 <img width="800" height="857" alt="Screenshot 2026-02-15 095233" src="https://github.com/user-attachments/assets/ae1113e1-6a2b-4a29-85b8-5ea95bbd62d3" />
 <img width="800" height="884" alt="Screenshot 2026-02-15 133002" src="https://github.com/user-attachments/assets/7e7e86f1-9ad7-40d8-a075-d8c609fcca9f" />
-<img width="800" height="869" alt="Screenshot 2026-02-18 170710" src="https://github.com/user-attachments/assets/cb83e278-601d-4a68-b075-e87a5db62335" />
 
 ## 🎥 Project Demo
 
